@@ -32,8 +32,8 @@ def convert_pptx_to_jpeg(input_file, output_folder):
     ppt.Quit()
 
 # Example usage
-input_file = r"C:\Users\SURENDRA REDDY\Downloads\project\Final\final ppt.pptx"
-output_folder = r"C:\Users\SURENDRA REDDY\Downloads\project\Final\code\Images"
+input_file = r"C:\Surendra_profile\project\Final\final ppt.pptx"
+output_folder = r"C:\Surendra_profile\project\Final\code\Images"
 convert_pptx_to_jpeg(input_file,output_folder)
 
 # variables
