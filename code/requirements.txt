@@ -1,0 +1,18 @@
+opencv-python == 4.5.2.52
+numpy == 1.20.3
+mediapipe == 0.8.4.2
+
+
+
+
+
+"C:\Users\pokur\Desktop\PROJECT (MAIN)\1st review(27-02-2024)\object tracking.pptx"   # input ppt path
+
+
+"C:\Users\pokur\Desktop\Hand-Gesture-Presentation-System-master\Images"    #output folder path
+
+
+
+ ppt_file = r"C:\Users\pokur\Desktop\PROJECT (MAIN)\1st review(27-02-2024)\object tracking.pptx"   # input ppt path
+    output_folder = r"C:\Users\pokur\Desktop\Hand-Gesture-Presentation-System-master\Images"    #output folder path
+    convert_ppt_to_images(ppt_file, output_folder)
